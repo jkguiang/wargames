@@ -1,0 +1,14 @@
+{
+    "tit_for_tat": {
+        "population": 0.01
+    },
+    "massive_retaliation": {
+        "population": 0.04
+    },
+    "demon": {
+        "population": 0.85
+    },
+    "angel": {
+        "population": 0.10
+    }
+}
